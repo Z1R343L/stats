@@ -104,7 +104,7 @@ div.ellipsis {
 
 <div>
 <span class="progress">
-<span style="background-color: #3572A5;width: 98.451%;" class="progress-item"></span><span style="background-color: #e34c26;width: 0.527%;" class="progress-item"></span><span style="background-color: #773b37;width: 0.433%;" class="progress-item"></span><span style="background-color: #f1e05a;width: 0.380%;" class="progress-item"></span><span style="background-color: #2b7489;width: 0.169%;" class="progress-item"></span><span style="background-color: #384d54;width: 0.035%;" class="progress-item"></span><span style="background-color: #89e051;width: 0.006%;" class="progress-item"></span>
+<span style="background-color: #3572A5;width: 98.218%;" class="progress-item"></span><span style="background-color: #773b37;width: 0.668%;" class="progress-item"></span><span style="background-color: #e34c26;width: 0.525%;" class="progress-item"></span><span style="background-color: #f1e05a;width: 0.379%;" class="progress-item"></span><span style="background-color: #2b7489;width: 0.169%;" class="progress-item"></span><span style="background-color: #384d54;width: 0.035%;" class="progress-item"></span><span style="background-color: #89e051;width: 0.006%;" class="progress-item"></span>
 </span>
 </div>
 
@@ -116,25 +116,25 @@ div.ellipsis {
 viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
 fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
 <span class="lang">Python</span>
-<span class="percent">98.45%</span>
+<span class="percent">98.22%</span>
 </li>
 
 
 <li style="animation-delay: 150ms;">
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#773b37;"
+viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
+fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+<span class="lang">Kaitai Struct</span>
+<span class="percent">0.67%</span>
+</li>
+
+
+<li style="animation-delay: 300ms;">
 <svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#e34c26;"
 viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
 fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
 <span class="lang">HTML</span>
 <span class="percent">0.53%</span>
-</li>
-
-
-<li style="animation-delay: 300ms;">
-<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#773b37;"
-viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
-fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
-<span class="lang">Kaitai Struct</span>
-<span class="percent">0.43%</span>
 </li>
 
 
